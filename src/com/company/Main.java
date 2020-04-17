@@ -20,9 +20,9 @@ public class Main {
         }
         else if (z==1){
             System.out.println((x*y)+10);
-            sum1=(x*y)+10;
-        }System.out.println(sum+sum1);
-    }
+            sum=(x*y)+10;
+        }
+    }System.out.println(sum);
 
     }
 }

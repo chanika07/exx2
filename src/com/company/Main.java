@@ -16,11 +16,11 @@ public class Main {
 
          if (z == 0){
             System.out.println(x*y);
-            sum=x*y;
+             sum +=x*y;
         }
         else if (z==1){
             System.out.println((x*y)+10);
-            sum=(x*y)+10;
+            sum +=(x*y)+10;
         }
     }System.out.println(sum);
 
